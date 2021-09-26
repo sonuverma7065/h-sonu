@@ -1,0 +1,24 @@
+.banner-parent-d {
+    margin-top: 80px;
+
+}
+.banner-img-d  {
+    padding: 0px;
+    padding-top: 15px;
+    margin-left: 10px;
+}
+.credit-score-d {
+    padding-top: 50px;
+}
+.credit-score-d  h4 {
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.2;
+    
+}
+.credit-score-d  h4 .span-1 {
+    text-decoration: line-through;
+}
+.credit-score-d  h4 .span-2 {
+    color: rgb(255, 63, 95);
+}
